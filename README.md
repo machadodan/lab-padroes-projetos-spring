@@ -26,4 +26,4 @@ O projeto utilizou as seguintes tecnologias:
 
 .openfeign para consumo da API viacep
 
-Por: Daniel Machado
+Por: Daniel Machado.
