@@ -1,8 +1,6 @@
 <h1>DIO Bootcamp TQI Fullstack Developer</h1>
 
-Explorando Padrões de Projetos na Prática com Java
-
-Lab "Explorando Padrões de Projetos na Prática com Java" com tech lead na Dio - Venilton 
+Lab "Explorando Padrões de Projetos na Prática com Java" com <b>tech lead na Dio - Venilton</b>
 
 
 O projeto foi integrado a API do viacep<a href="http://viacep.com.br/">ViaCep</a> por meio de uma classe de service, 
