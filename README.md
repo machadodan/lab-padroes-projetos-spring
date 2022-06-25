@@ -14,7 +14,7 @@ Foi explorado alguns padrões do Spring Framework:
 
 <b>Facade</b> -  Abstrai integrações com subsistemas, provendo uma interface simples
 
-<img src="/img/api.png" alt="api"/>
+<img src="/img/api.PNG" alt="api"/>
 
 O projeto utilizou as seguintes tecnologias:
 
