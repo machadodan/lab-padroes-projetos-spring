@@ -1,6 +1,7 @@
 <h1>DIO Bootcamp TQI Fullstack Developer</h1>
 
 Explorando Padrões de Projetos na Prática com Java
+
 Lab "Explorando Padrões de Projetos na Prática com Java" com tech lead na Dio - Venilton 
 
 
@@ -20,8 +21,11 @@ Foi explorado alguns padrões do Spring Framework:
 O projeto utilizou as seguintes tecnologias:
 
 .Java 11
+
 .OpenAPI para testar os endPoints via Swagger
+
 .Banco de Dados H2
+
 .openfeign para consumo da API viacep
 
 Por: Daniel Machado
