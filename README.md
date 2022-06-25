@@ -1,4 +1,4 @@
-<h1>DIO Bootcamp TQI Fullstack Developer</h1>
+<h2>DIO Bootcamp TQI Fullstack Developer</h2>
 
 Lab "Explorando Padrões de Projetos na Prática com Java" com <b>tech lead na Dio - Venilton</b>
 
@@ -14,7 +14,7 @@ Foi explorado alguns padrões do Spring Framework:
 
 <b>Facade</b> -  Abstrai integrações com subsistemas, provendo uma interface simples
 
-<img src="/img/api.png" alt="api"/>
+![img](http://i.imgur.com/api.png)
 
 O projeto utilizou as seguintes tecnologias:
 
